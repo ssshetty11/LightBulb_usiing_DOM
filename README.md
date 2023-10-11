@@ -1,2 +1,2 @@
 # LightBulb_usiing_DOM
-I recently acquired and strengthened my skills in DOM manipulation, and as a practical demonstration of my newfound expertise, I've independently developed a small web project relying solely on DOM manipulation techniques.
+I recently acquired and strengthened my skills in DOM manipulation, and as a practical demonstration of my newfound expertise, I've independently developed a small web project relying solely on DOM manipulation techniques. This project serves as a testament to my commitment to learning and applying web development skills effectively. It reflects my passion for creating interactive and engaging web applications through hands-on experience with the Document Object Model.
